@@ -1,0 +1,74 @@
+[
+  {
+    "id": "5nTF6QItEP7UTo1XlNz1",
+    "name": " MacBook Pro 16",
+    "category": "computadores",
+    "imageUrl": "https://i.imgur.com/aWa85Wv.png",
+    "description": "Processador M1 Pro da Apple com CPU 10‑core e GPU 16‑core, 16 GB RAM, 512 GB SSD",
+    "price": 22499
+  },
+  {
+    "id": "NXHNpwb5tapilKw0drNa",
+    "name": "MacBook Air M1",
+    "category": "computadores",
+    "imageUrl": "https://i.imgur.com/lfwmJSo.jpeg",
+    "description": "Processador M1 da Apple com CPU 8‑core e GPU 7‑core, 8 GB RAM, 256 GB",
+    "price": 6300
+  },
+  {
+    "id": "dADLgEFhe4BhnxXI4T08",
+    "name": "Apple Watch Series 8",
+    "category": "relogios",
+    "imageUrl": "https://i.imgur.com/ik5EzzF.jpeg",
+    "price": 2499,
+    "description": "Apple Watch Series 8 GPS 41mm Caixa Meia-noite com Pulseira Esportiva Midnight"
+  },
+  {
+    "id": "gEBSzUAi4Ezc3UmEMeqI",
+    "name": "Apple Watch SE",
+    "category": "relogios",
+    "imageUrl": "https://i.imgur.com/irymsJy.jpeg",
+    "description": "Apple Watch SE GPS (2da gen) • Caixa prateada de alumínio – 44 mm • Pulseira loop esportiva azul-inverno",
+    "price": 2399
+  },
+  {
+    "id": "iwPzdZDFtH1IjDFOSWug",
+    "name": "Iphone 15 Pro",
+    "price": 6999,
+    "category": "celulares",
+    "description": "Apple iPhone 15 Pro (128 GB) - Titânio Azul ",
+    "imageUrl": "https://i.imgur.com/q1mDfty.jpeg"
+  },
+  {
+    "id": "jYBOuxARNj6AMzh2qBvz",
+    "name": "iPhone 14 Pro",
+    "category": "celulares",
+    "imageUrl": "https://i.imgur.com/DIMI7De.jpeg",
+    "description": "Apple iPhone 14 Pro (128 GB) - Roxo-profundo",
+    "price": 5700
+  },
+  {
+    "id": "nCmwBpep88G4symMJFJl",
+    "name": "Apple Watch Ultra 2",
+    "category": "relogios",
+    "description": "Apple Watch Ultra 2 GPS + Cellular • Caixa de titânio – 49 mm • Pulseira Oceano azul",
+    "price": 6200,
+    "imageUrl": "https://i.imgur.com/lBrRj25.jpeg"
+  },
+  {
+    "id": "tUrRJ9Tw7rt7F8Qyoagv",
+    "category": "computadores",
+    "name": "Macbook Air (2024)",
+    "price": 7499,
+    "imageUrl": "https://i.imgur.com/TUDPOyl.jpeg",
+    "description": "Processador M3 da Apple com, 8gb Ram, Ssd 256gb, Gpu 8 Núcleos, Tela 13.6 Cinza Espacial"
+  },
+  {
+    "id": "tnu8xlSNeAuxFN10IjOr",
+    "name": "Iphone 16",
+    "category": "celulares",
+    "description": "Apple iPhone 16 (128 GB) - Verde-acinzentado ",
+    "price": 6499,
+    "imageUrl": "https://i.imgur.com/pHKghWR.png"
+  }
+]
